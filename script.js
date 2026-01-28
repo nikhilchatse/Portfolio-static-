@@ -214,3 +214,7 @@ navBtns.forEach(btn => {
         navbar.classList.remove('active');
     });
 });
+
+
+
+
